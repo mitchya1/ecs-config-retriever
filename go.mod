@@ -8,7 +8,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.3.0
 	github.com/aws/aws-sdk-go-v2/service/ssm v1.6.2
 	github.com/hashicorp/vault v1.7.2
-	github.com/hashicorp/vault/api v1.1.0
+	github.com/hashicorp/vault/api v1.8.2
 	github.com/sirupsen/logrus v1.8.1
 	gotest.tools v2.2.0+incompatible
 )
